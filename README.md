@@ -3,7 +3,7 @@
 This project explores fraud detection on a highly imbalanced transaction dataset using Logistic Regression and Random Forest models.
 
 ## Dataset
-The dataset is sourced from Kaggle (PaySim simulator):
+The dataset is sourced from Kaggle = Synthetic Financial Datasets For Fraud Detection:
 https://www.kaggle.com/datasets/ealaxi/paysim1
 
 Due to file size limits, the dataset is not included in this repository.
